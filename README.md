@@ -19,6 +19,6 @@ I’m a Computing Science & Math student at the University of Alberta, passionat
 
 ### 🔗 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/anthony-li-013b95368)  
-- [Resume (PDF)](https://github.com/anthonyyli05/anthonyyli05/blob/main/Anthony%20Li%20Resume.docx) 
+- [Resume (Word Doc)](https://github.com/anthonyyli05/anthonyyli05/blob/main/Anthony%20Li%20Resume.docx) 
 
 ---
