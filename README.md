@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Anthony Li
+# 👋 Hi there! I’m Anthony Li
 
 I’m a Computing Science & Math student at the University of Alberta, passionate about mobile development, AI, and full-stack innovation.
 
